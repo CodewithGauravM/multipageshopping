@@ -1,0 +1,25 @@
+.imghome{
+  position: relative;
+}
+#headingimg{
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 2rem;
+}
+#headingimg h1{
+  font-size: 5rem;
+}
+#divimgmen{
+    height: 50%;
+    width: 100%;
+}
+.divmadhe img{
+    height: 40vh;
+    width: 40vh;
+}
